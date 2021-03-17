@@ -1,3 +1,6 @@
+git add nazwa_pliku
+git commit -m "Komentarz"
+
 git remote add origin https://github.com/mcxenonik/PIPR_Lab3.git
 git branch -M main
 git push -u origin main
