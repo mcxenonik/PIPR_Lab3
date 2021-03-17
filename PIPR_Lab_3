@@ -1,3 +1,4 @@
+git init
 git add nazwa_pliku
 git commit -m "Komentarz"
 
